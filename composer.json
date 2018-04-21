@@ -1,5 +1,5 @@
 {
-    "name": "zfcampus/statuslib-example",
+    "name": "andrewscaya/statuslib-example",
     "description": "Library for use with Apigility documentation examples",
     "type": "library",
     "license": "BSD-3-Clause",
@@ -10,14 +10,13 @@
     ],
     "homepage": "http://apigility.org/",
     "support": {
-        "email": "apigility-users@zend.com",
-        "irc": "irc://irc.freenode.net/apigility",
-        "source": "https://github.com/zfcampus/statuslib-example",
-        "issues": "https://github.com/zfcampus/statuslib-example/issues"
+        "email": "andrewscaya@yahoo.ca",
+        "source": "https://github.com/andrewscaya/statuslib-example",
+        "issues": "https://github.com/andrewscaya/statuslib-example/issues"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.1-dev"
+            "dev-master": "1.3-dev"
         },
         "zf": {
             "module": "StatusLib"
